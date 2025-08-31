@@ -5,7 +5,7 @@
   "theme_color": "#234afa",
   "background_color": "#fafafa",
   "display": "standalone",
-  "orientation": "any",
+  "orientation": "portrait-primary",
   "scope": "/",
   "start_url": "https://clyrove.com/",
   "icons": [
