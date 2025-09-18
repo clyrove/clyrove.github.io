@@ -1,0 +1,6 @@
+# Memberi izin semua crawler mengindeks semua halaman
+User-agent: *
+Disallow:
+
+# Jika nanti ada folder private atau admin, bisa tambahkan
+# Disallow: /admin/
