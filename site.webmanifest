@@ -2,12 +2,12 @@
   "name": "Clyrove Creative",
   "short_name": "Clyrove",
   "description": "A Hangout and Community Event Place - Unfold your imagination through vibrant colors and striking clarity, designed to turn moments into journeys",
-  "theme_color": "#234afa",
+  "theme_color": "#171717",
   "background_color": "#fafafa",
   "display": "standalone",
   "orientation": "portrait-primary",
   "scope": "/",
-  "start_url": "https://clyrovecreative.com/",
+  "start_url": "/",
   "icons": [
     {
       "src": "icons/icon_72.png",
